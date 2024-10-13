@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=BenjaminMuinga001&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BenjaminMuinga001&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
@@ -25,7 +25,7 @@
 [![](https://visitcount.itsvg.in/api?id=BenjaminMuinga001&icon=0&color=7)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/BENJAMIN MUINGA MWENDWA ) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/BENJAMIN  MWENDWA ) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
